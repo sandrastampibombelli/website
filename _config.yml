@@ -1,15 +1,15 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://alessandrastampi-bombelli.com"
+baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+#footer: yes
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
+   link: "/home/"
+ - name: "CV"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
